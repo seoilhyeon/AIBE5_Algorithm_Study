@@ -21,6 +21,8 @@ public class Solution_BOJ_1259 {
             } else {
                 System.out.println("no");
             }
+
+            sc.close();
         }
     }
 }
